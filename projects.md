@@ -41,7 +41,7 @@ Wpisujemy według schematu:
 *Uwaga:* W pliku _README.md_ należy wpisać wszystkich autorów aplikacji.
 
 1. [ADHD](https://github.com/romety2/asi_egz).  [Wypok](http://spalonytoster.me/)
-1. [2muchwork](https://github.com/vvisnia/asi_projekt_egzamin). [Wyporzyczalnia](http://carrtental.herokuapp.com/)
+1. [2muchwork](https://github.com/vvisnia/asi_projekt_egzamin). [Wypozyczalnia](http://carrtental.herokuapp.com/)
 
 ## Projekty na zaliczenie
 
